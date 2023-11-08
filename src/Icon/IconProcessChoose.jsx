@@ -1,0 +1,29 @@
+import React from 'react';
+import PropTypes from 'prop-types';
+
+import { TYPES, REFS } from './_constants';
+import IconPrimitive from './_internal/IconPrimitive';
+
+export default function IconProcessChoose(props) {
+  const type = TYPES.PROCESS_CHOOSE;
+
+  return (
+    <IconPrimitive {...props} type={type} viewBox={32}>
+      <path d="M16.559314,23.4959127 C16.5061123,23.5318554 16.449266,23.562813 16.3894451,23.588115 C16.015365,23.7399233 15.5859864,23.6667 15.2930932,23.3738068 L10.6263932,18.7071068 C10.2358689,18.3165825 10.2358689,17.6834175 10.6263932,17.2928932 C11.0169175,16.9023689 11.6500825,16.9023689 12.0406068,17.2928932 L15.0002,20.2524864 L15.0002,8 C15.0002,7.44771525 15.4479153,7 16.0002,7 C16.5524847,7 17.0002,7.44771525 17.0002,8 L17.0002,20.2524499 L19.9596856,17.2929008 C20.3502058,16.9023723 20.9833707,16.9023655 21.3738992,17.2928856 C21.7644277,17.6834058 21.7644345,18.3165707 21.3739144,18.7070992 L16.7073144,23.3737992 C16.660252,23.4208626 16.6096656,23.4622544 16.5564047,23.4979745 L16.559314,23.4959127 Z" />
+    </IconPrimitive>
+  );
+}
+
+IconProcessChoose.propTypes = {
+  size: PropTypes.oneOf(Object.values(REFS.SIZES)),
+  display: PropTypes.oneOf(Object.values(REFS.DISPLAY)),
+  color: PropTypes.oneOf(Object.values(REFS.COLORS)),
+};
+
+IconProcessChoose.defaultProps = {
+  size: REFS.SIZES.M,
+  display: REFS.DISPLAY.INLINE,
+  color: REFS.COLORS.PRIMARY,
+};
+
+IconProcessChoose.REFS = REFS;

@@ -1,0 +1,50 @@
+Account
+AppDownloadButton // todo refactor and add colorType
+Button // todo add colorType
+Calendar // todo refactor and add colorType
+Card // todo refactor
+Chessboard
+Country // todo refactor and add colorType
+FilesUploader todo add colorType
+Form // todo refactor and add colorType
+GameIllustration // todo add doc
+GameNotation
+Geometric
+GetIcon
+Grid
+Icon // todo привести в соответстие с ДС и удалить неиспользуемые
+IconChess
+IconWithBadge
+Image
+Input // todo refactor and add colorType
+Layout
+LayoutBlank // todo remove
+LayoutError // todo remove
+LayoutGame // todo remove
+LayoutMain // todo remove
+LayoutModal // todo remove
+Link
+Loader // todo refactor and add colorType
+Logo
+LogoBlack // todo remove
+Menu // todo refactor and add colorType
+MobileAppButtons
+ModalWindow // todo add theme
+Navigation // todo refactor
+NavigationLite // todo узнать где используется и либо remove либо refactor
+Notification // todo узнать где используется и либо remove либо refactor
+Notifications // todo узнать где используется и либо remove либо refactor
+NotificationSticker
+Option // todo refactor
+Pattern
+Popup // todo refactor
+Progress // todo узнать где используется и либо remove либо refactor
+RectBadge
+SimpleBoard // todo refactor
+SimpleScroll
+Slider // todo узнать где используется и либо remove либо refactor
+SocialNetworks
+TableList
+Toastify
+TournamentCard
+TournamentCardLite

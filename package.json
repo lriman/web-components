@@ -1,0 +1,90 @@
+{
+  "name": "@levitovchess/components",
+  "version": "2.0.231",
+  "private": true,
+  "main": "lib/index.js",
+  "scripts": {
+    "start": "cross-env styleguidist server --config config.js --open",
+    "build": "npm run build:lib && npm run build:styleguide",
+    "build:lib": "cross-env rm -rf lib && babel src --out-dir lib --quiet --copy-files && rm -rf lib/__docs__ && rm -rf lib/__examples__ && rm -rf lib/__tests__",
+    "build:lib:win": "cross-env del lib && babel src --out-dir lib --quiet --copy-files && del lib\\__docs__ && del lib\\__examples__ && del lib\\__tests__",
+    "build:styleguide": "rm -rf build && styleguidist build --config config.js",
+    "lint": "eslint --ext js --ext jsx src/",
+    "lint:fix": "eslint --fix --ext js --ext jsx src/",
+    "test": "react-scripts test --watchAll=false --coverage",
+    "test:all": "react-scripts test --watchAll=false",
+    "test:watch": "react-scripts test"
+  },
+  "husky": {
+    "hooks": {
+      "pre-push": "npm run build:lib && git add lib/ && git commit -m \"Update lib $(date +%F@%R)\" --allow-empty && npm version patch"
+    }
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "jest": {
+    "collectCoverageFrom": [
+      "**/src/**/*.{js,jsx}",
+      "!**/node_modules/**",
+      "!**/__examples__/**"
+    ]
+  },
+  "dependencies": {
+    "chess.js": "^0.11.0",
+    "moment-duration-format": "^2.3.2",
+    "polished": "^4.1.0",
+    "rc-calendar": "^9.15.11",
+    "rc-slider": "^9.7.1",
+    "react-beautiful-dnd": "^13.0.0",
+    "react-dropzone": "^11.3.1",
+    "react-highlight-words": "^0.17.0",
+    "react-html-parser": "^2.0.2",
+    "react-id-swiper": "^4.0.0",
+    "react-image-crop": "^8.6.6",
+    "react-lazyload": "^3.1.1",
+    "react-lottie": "^1.2.3",
+    "react-markdown": "^5.0.3",
+    "react-sizeme": "^2.6.12",
+    "recharts": "^2.0.6",
+    "swiper": "^6.4.11",
+    "uuid": "^8.3.2"
+  },
+  "peerDependencies": {
+    "@modules/themes": "^1",
+    "@modules/utils": "^1",
+    "mobx-react": "^7",
+    "moment": "^2",
+    "prop-types": "^15",
+    "react": "^17",
+    "react-dom": "^17",
+    "react-router-dom": "^5",
+    "styled-components": "^5"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.12.13",
+    "@babel/plugin-proposal-class-properties": "^7.12.13",
+    "@babel/preset-env": "^7.12.13",
+    "@babel/preset-react": "^7.12.13",
+    "babel-plugin-module-resolver": "^4.1.0",
+    "cross-env": "^7.0.3",
+    "eslint-config-airbnb": "^18.2.1",
+    "eslint-config-prettier": "^7.2.0",
+    "eslint-import-resolver-babel-module": "^5.2.0",
+    "eslint-plugin-import": "^2.22.1",
+    "eslint-plugin-jsx-a11y": "^6.4.1",
+    "eslint-plugin-prettier": "^3.3.1",
+    "eslint-plugin-react": "^7.22.0",
+    "eslint-plugin-react-hooks": "^4.2.0",
+    "husky": "4.3.8",
+    "jest-styled-components": "^7.0.3",
+    "prettier": "^2.2.1",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1",
+    "react-router-dom": "^5.2.0",
+    "react-scripts": "^4.0.2",
+    "react-styleguidist": "^11.1.5",
+    "react-test-renderer": "^17.0.1",
+    "styled-components": "^5.2.1"
+  }
+}

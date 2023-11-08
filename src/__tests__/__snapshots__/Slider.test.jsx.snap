@@ -1,0 +1,526 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Slider default 1`] = `
+.c0 {
+  position: relative;
+  box-sizing: border-box;
+}
+
+.c1 {
+  position: relative;
+  box-sizing: border-box;
+  padding: 0 10px 0 10px;
+}
+
+<div
+  className="c0"
+  data-component="Slider"
+  data-disabled={null}
+  data-id="slider"
+>
+  <div
+    className="c1"
+  >
+    <div
+      className="rc-slider"
+      onBlur={[Function]}
+      onFocus={[Function]}
+      onKeyDown={[Function]}
+      onMouseDown={[Function]}
+      onMouseUp={[Function]}
+      onTouchStart={[Function]}
+    >
+      <div
+        className="rc-slider-rail"
+        style={Object {}}
+      />
+      <div
+        className="rc-slider-track"
+        style={
+          Object {
+            "left": "0%",
+            "right": "auto",
+            "width": "0%",
+          }
+        }
+      />
+      <div
+        className="rc-slider-step"
+      />
+      <div
+        aria-disabled={false}
+        aria-valuemax={100}
+        aria-valuemin={0}
+        aria-valuenow={0}
+        className="rc-slider-handle"
+        onBlur={[Function]}
+        onKeyDown={[Function]}
+        onMouseDown={[Function]}
+        role="slider"
+        style={
+          Object {
+            "left": "0%",
+            "right": "auto",
+            "transform": "translateX(-50%)",
+          }
+        }
+        tabIndex={0}
+      />
+      <div
+        className="rc-slider-mark"
+      />
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Slider disabled 1`] = `
+.c0 {
+  position: relative;
+  box-sizing: border-box;
+}
+
+.c1 {
+  position: relative;
+  box-sizing: border-box;
+  padding: 0 10px 0 10px;
+}
+
+<div
+  className="c0"
+  data-component="Slider"
+  data-disabled={true}
+  data-id="slider"
+>
+  <div
+    className="c1"
+  >
+    <div
+      className="rc-slider rc-slider-disabled"
+      onBlur={[Function]}
+      onFocus={[Function]}
+      onKeyDown={[Function]}
+      onMouseDown={[Function]}
+      onMouseUp={[Function]}
+      onTouchStart={[Function]}
+    >
+      <div
+        className="rc-slider-rail"
+        style={Object {}}
+      />
+      <div
+        className="rc-slider-track"
+        style={
+          Object {
+            "left": "0%",
+            "right": "auto",
+            "width": "0%",
+          }
+        }
+      />
+      <div
+        className="rc-slider-step"
+      />
+      <div
+        aria-disabled={true}
+        aria-valuemax={100}
+        aria-valuemin={0}
+        aria-valuenow={0}
+        className="rc-slider-handle"
+        onBlur={[Function]}
+        onKeyDown={[Function]}
+        onMouseDown={[Function]}
+        role="slider"
+        style={
+          Object {
+            "left": "0%",
+            "right": "auto",
+            "transform": "translateX(-50%)",
+          }
+        }
+        tabIndex={null}
+      />
+      <div
+        className="rc-slider-mark"
+      />
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Slider with children 1`] = `
+.c0 {
+  position: relative;
+  box-sizing: border-box;
+}
+
+.c1 {
+  position: relative;
+  box-sizing: border-box;
+  margin-bottom: 4px;
+}
+
+.c2 {
+  position: relative;
+  box-sizing: border-box;
+  padding: 0 10px 0 10px;
+}
+
+<div
+  className="c0"
+  data-component="Slider"
+  data-disabled={null}
+  data-id="slider"
+>
+  <div
+    className="c1"
+  >
+    <div>
+      Slider
+    </div>
+  </div>
+  <div
+    className="c2"
+  >
+    <div
+      className="rc-slider"
+      onBlur={[Function]}
+      onFocus={[Function]}
+      onKeyDown={[Function]}
+      onMouseDown={[Function]}
+      onMouseUp={[Function]}
+      onTouchStart={[Function]}
+    >
+      <div
+        className="rc-slider-rail"
+        style={Object {}}
+      />
+      <div
+        className="rc-slider-track"
+        style={
+          Object {
+            "left": "0%",
+            "right": "auto",
+            "width": "0%",
+          }
+        }
+      />
+      <div
+        className="rc-slider-step"
+      />
+      <div
+        aria-disabled={false}
+        aria-valuemax={100}
+        aria-valuemin={0}
+        aria-valuenow={0}
+        className="rc-slider-handle"
+        onBlur={[Function]}
+        onKeyDown={[Function]}
+        onMouseDown={[Function]}
+        role="slider"
+        style={
+          Object {
+            "left": "0%",
+            "right": "auto",
+            "transform": "translateX(-50%)",
+          }
+        }
+        tabIndex={0}
+      />
+      <div
+        className="rc-slider-mark"
+      />
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Slider with marks 1`] = `
+.c0 {
+  position: relative;
+  box-sizing: border-box;
+}
+
+.c1 {
+  position: relative;
+  box-sizing: border-box;
+  padding: 0 10px 16px 10px;
+}
+
+<div
+  className="c0"
+  data-component="Slider"
+  data-disabled={null}
+  data-id="slider"
+>
+  <div
+    className="c1"
+  >
+    <div
+      className="rc-slider rc-slider-with-marks"
+      onBlur={[Function]}
+      onFocus={[Function]}
+      onKeyDown={[Function]}
+      onMouseDown={[Function]}
+      onMouseUp={[Function]}
+      onTouchStart={[Function]}
+    >
+      <div
+        className="rc-slider-rail"
+        style={Object {}}
+      />
+      <div
+        className="rc-slider-track"
+        style={
+          Object {
+            "left": "0%",
+            "right": "auto",
+            "width": "0%",
+          }
+        }
+      />
+      <div
+        className="rc-slider-step"
+      >
+        <span
+          className="rc-slider-dot rc-slider-dot-active"
+          style={
+            Object {
+              "left": "0%",
+            }
+          }
+        />
+        <span
+          className="rc-slider-dot"
+          style={
+            Object {
+              "left": "50%",
+            }
+          }
+        />
+        <span
+          className="rc-slider-dot"
+          style={
+            Object {
+              "left": "100%",
+            }
+          }
+        />
+      </div>
+      <div
+        aria-disabled={false}
+        aria-valuemax={100}
+        aria-valuemin={0}
+        aria-valuenow={0}
+        className="rc-slider-handle"
+        onBlur={[Function]}
+        onKeyDown={[Function]}
+        onMouseDown={[Function]}
+        role="slider"
+        style={
+          Object {
+            "left": "0%",
+            "right": "auto",
+            "transform": "translateX(-50%)",
+          }
+        }
+        tabIndex={0}
+      />
+      <div
+        className="rc-slider-mark"
+      >
+        <span
+          className="rc-slider-mark-text rc-slider-mark-text-active"
+          onMouseDown={[Function]}
+          onTouchStart={[Function]}
+          style={
+            Object {
+              "left": "0%",
+              "msTransform": "translateX(-50%)",
+              "transform": "translateX(-50%)",
+            }
+          }
+        >
+          0%
+        </span>
+        <span
+          className="rc-slider-mark-text"
+          onMouseDown={[Function]}
+          onTouchStart={[Function]}
+          style={
+            Object {
+              "left": "50%",
+              "msTransform": "translateX(-50%)",
+              "transform": "translateX(-50%)",
+            }
+          }
+        >
+          50%
+        </span>
+        <span
+          className="rc-slider-mark-text"
+          onMouseDown={[Function]}
+          onTouchStart={[Function]}
+          style={
+            Object {
+              "left": "100%",
+              "msTransform": "translateX(-50%)",
+              "transform": "translateX(-50%)",
+            }
+          }
+        >
+          100%
+        </span>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Slider with onChange 1`] = `
+.c0 {
+  position: relative;
+  box-sizing: border-box;
+}
+
+.c1 {
+  position: relative;
+  box-sizing: border-box;
+  padding: 0 10px 0 10px;
+}
+
+<div
+  className="c0"
+  data-component="Slider"
+  data-disabled={null}
+  data-id="slider"
+>
+  <div
+    className="c1"
+  >
+    <div
+      className="rc-slider"
+      onBlur={[Function]}
+      onFocus={[Function]}
+      onKeyDown={[Function]}
+      onMouseDown={[Function]}
+      onMouseUp={[Function]}
+      onTouchStart={[Function]}
+    >
+      <div
+        className="rc-slider-rail"
+        style={Object {}}
+      />
+      <div
+        className="rc-slider-track"
+        style={
+          Object {
+            "left": "0%",
+            "right": "auto",
+            "width": "0%",
+          }
+        }
+      />
+      <div
+        className="rc-slider-step"
+      />
+      <div
+        aria-disabled={false}
+        aria-valuemax={100}
+        aria-valuemin={0}
+        aria-valuenow={0}
+        className="rc-slider-handle"
+        onBlur={[Function]}
+        onKeyDown={[Function]}
+        onMouseDown={[Function]}
+        role="slider"
+        style={
+          Object {
+            "left": "0%",
+            "right": "auto",
+            "transform": "translateX(-50%)",
+          }
+        }
+        tabIndex={0}
+      />
+      <div
+        className="rc-slider-mark"
+      />
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Slider with step 1`] = `
+.c0 {
+  position: relative;
+  box-sizing: border-box;
+}
+
+.c1 {
+  position: relative;
+  box-sizing: border-box;
+  padding: 0 10px 0 10px;
+}
+
+<div
+  className="c0"
+  data-component="Slider"
+  data-disabled={null}
+  data-id="slider"
+>
+  <div
+    className="c1"
+  >
+    <div
+      className="rc-slider"
+      onBlur={[Function]}
+      onFocus={[Function]}
+      onKeyDown={[Function]}
+      onMouseDown={[Function]}
+      onMouseUp={[Function]}
+      onTouchStart={[Function]}
+    >
+      <div
+        className="rc-slider-rail"
+        style={Object {}}
+      />
+      <div
+        className="rc-slider-track"
+        style={
+          Object {
+            "left": "0%",
+            "right": "auto",
+            "width": "0%",
+          }
+        }
+      />
+      <div
+        className="rc-slider-step"
+      />
+      <div
+        aria-disabled={false}
+        aria-valuemax={100}
+        aria-valuemin={0}
+        aria-valuenow={0}
+        className="rc-slider-handle"
+        onBlur={[Function]}
+        onKeyDown={[Function]}
+        onMouseDown={[Function]}
+        role="slider"
+        style={
+          Object {
+            "left": "0%",
+            "right": "auto",
+            "transform": "translateX(-50%)",
+          }
+        }
+        tabIndex={0}
+      />
+      <div
+        className="rc-slider-mark"
+      />
+    </div>
+  </div>
+</div>
+`;

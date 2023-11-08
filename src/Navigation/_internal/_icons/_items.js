@@ -1,0 +1,9 @@
+export { default as NavigationIconAdmin } from './NavigationIconAdmin';
+export { default as NavigationIconContent } from './NavigationIconContent';
+export { default as NavigationIconFolders } from './NavigationIconFolders';
+export { default as NavigationIconGoods } from './NavigationIconGoods';
+export { default as NavigationIconList } from './NavigationIconList';
+export { default as NavigationIconTraining } from './NavigationIconTraining';
+export { default as NavigationIconStatistics } from './NavigationIconStatistics';
+export { default as NavigationIconPuzzle } from './NavigationIconPuzzle';
+export { default as NavigationIconStream } from './NavigationIconStream';

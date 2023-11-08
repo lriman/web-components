@@ -1,0 +1,29 @@
+import React from 'react';
+import PropTypes from 'prop-types';
+
+import { TYPES, REFS } from './_constants';
+import IconPrimitive from './_internal/IconPrimitive';
+
+export default function IconEyeClosed(props) {
+  const type = TYPES.EYE_CLOSED;
+
+  return (
+    <IconPrimitive {...props} type={type} viewBox={24}>
+      <path d="M3.29486,10.581 C2.80301,10.1166 2.40241,9.67839 2.10956,9.31232 L2.89043,8.68762 C3.52337,9.47879 4.7567,10.6907 6.36595,11.7016 C7.9753,12.7125 9.92473,13.5 12,13.5 C14.0753,13.5 16.0247,12.7125 17.634,11.7016 C19.2433,10.6907 20.4766,9.47879 21.1096,8.68762 L21.8904,9.31232 C21.5976,9.67839 21.197,10.1166 20.7051,10.581 L22.3904,12.6876 L21.6096,13.3123 L19.9562,11.2456 C19.4264,11.6879 18.8253,12.1342 18.1659,12.5484 C17.8362,12.7555 17.4905,12.9554 17.1306,13.1432 L18.4472,15.7764 L17.5528,16.2236 L16.2277,13.5735 C15.085,14.0668 13.8272,14.4152 12.5,14.4865 L12.5,17 L11.5,17 L11.5,14.4865 C10.1728,14.4152 8.91502,14.0668 7.77224,13.5735 L6.44721,16.2236 L5.55278,15.7764 L6.86936,13.1432 C6.50947,12.9554 6.1638,12.7555 5.83404,12.5484 C5.17469,12.1342 4.57361,11.6879 4.04379,11.2456 L2.39043,13.3123 L1.60956,12.6876 L3.29486,10.581 Z" />
+    </IconPrimitive>
+  );
+}
+
+IconEyeClosed.propTypes = {
+  size: PropTypes.oneOf(Object.values(REFS.SIZES)),
+  display: PropTypes.oneOf(Object.values(REFS.DISPLAY)),
+  color: PropTypes.oneOf(Object.values(REFS.COLORS)),
+};
+
+IconEyeClosed.defaultProps = {
+  size: REFS.SIZES.M,
+  display: REFS.DISPLAY.INLINE,
+  color: REFS.COLORS.PRIMARY,
+};
+
+IconEyeClosed.REFS = REFS;

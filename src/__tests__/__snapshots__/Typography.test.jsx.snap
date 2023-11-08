@@ -1,0 +1,2604 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Typography Block size l 1`] = `
+.c1 {
+  position: relative;
+  box-sizing: border-box;
+  display: block;
+  font-family: "Roboto","Helvetica Neue",Helvetica,Arial,sans-serif;
+  font-weight: normal;
+  line-height: 1.6;
+  margin: 16px 0;
+  padding: 0 0;
+  font-size: 16px;
+  text-align: inherit;
+  color: inherit;
+}
+
+.c1:first-child {
+  margin-top: 0;
+}
+
+.c1:last-child {
+  margin-bottom: 0;
+}
+
+.sc-dlnjPT + .c0 {
+  margin-top: 0;
+}
+
+@media (min-width:768px) {
+  .c1 {
+    font-size: 16px;
+  }
+}
+
+@media (min-width:1200px) {
+  .c1 {
+    font-size: 16px;
+  }
+}
+
+<div
+  className="c0 c1"
+  data-component="Block"
+  data-size="l"
+>
+  Text
+</div>
+`;
+
+exports[`Typography Block size m 1`] = `
+.c1 {
+  position: relative;
+  box-sizing: border-box;
+  display: block;
+  font-family: "Roboto","Helvetica Neue",Helvetica,Arial,sans-serif;
+  font-weight: normal;
+  line-height: 1.6;
+  margin: 16px 0;
+  padding: 0 0;
+  font-size: 14px;
+  text-align: inherit;
+  color: inherit;
+}
+
+.c1:first-child {
+  margin-top: 0;
+}
+
+.c1:last-child {
+  margin-bottom: 0;
+}
+
+.sc-dlnjPT + .c0 {
+  margin-top: 0;
+}
+
+@media (min-width:768px) {
+  .c1 {
+    font-size: 14px;
+  }
+}
+
+@media (min-width:1200px) {
+  .c1 {
+    font-size: 14px;
+  }
+}
+
+<div
+  className="c0 c1"
+  data-component="Block"
+  data-size="m"
+>
+  Text
+</div>
+`;
+
+exports[`Typography Block size s 1`] = `
+.c1 {
+  position: relative;
+  box-sizing: border-box;
+  display: block;
+  font-family: "Roboto","Helvetica Neue",Helvetica,Arial,sans-serif;
+  font-weight: normal;
+  line-height: 1.6;
+  margin: 16px 0;
+  padding: 0 0;
+  font-size: 10.8px;
+  text-align: inherit;
+  color: inherit;
+}
+
+.c1:first-child {
+  margin-top: 0;
+}
+
+.c1:last-child {
+  margin-bottom: 0;
+}
+
+.sc-dlnjPT + .c0 {
+  margin-top: 0;
+}
+
+@media (min-width:768px) {
+  .c1 {
+    font-size: 12px;
+  }
+}
+
+@media (min-width:1200px) {
+  .c1 {
+    font-size: 12px;
+  }
+}
+
+<div
+  className="c0 c1"
+  data-component="Block"
+  data-size="s"
+>
+  Text
+</div>
+`;
+
+exports[`Typography Block size xl 1`] = `
+.c1 {
+  position: relative;
+  box-sizing: border-box;
+  display: block;
+  font-family: "Roboto","Helvetica Neue",Helvetica,Arial,sans-serif;
+  font-weight: normal;
+  line-height: 1.6;
+  margin: 16px 0;
+  padding: 0 0;
+  font-size: 18px;
+  text-align: inherit;
+  color: inherit;
+}
+
+.c1:first-child {
+  margin-top: 0;
+}
+
+.c1:last-child {
+  margin-bottom: 0;
+}
+
+.sc-dlnjPT + .c0 {
+  margin-top: 0;
+}
+
+@media (min-width:768px) {
+  .c1 {
+    font-size: 18px;
+  }
+}
+
+@media (min-width:1200px) {
+  .c1 {
+    font-size: 18px;
+  }
+}
+
+<div
+  className="c0 c1"
+  data-component="Block"
+  data-size="xl"
+>
+  Text
+</div>
+`;
+
+exports[`Typography Block size xs 1`] = `
+.c1 {
+  position: relative;
+  box-sizing: border-box;
+  display: block;
+  font-family: "Roboto","Helvetica Neue",Helvetica,Arial,sans-serif;
+  font-weight: normal;
+  line-height: 1.6;
+  margin: 16px 0;
+  padding: 0 0;
+  font-size: 10.8px;
+  text-align: inherit;
+  color: inherit;
+}
+
+.c1:first-child {
+  margin-top: 0;
+}
+
+.c1:last-child {
+  margin-bottom: 0;
+}
+
+.sc-dlnjPT + .c0 {
+  margin-top: 0;
+}
+
+@media (min-width:768px) {
+  .c1 {
+    font-size: 10.8px;
+  }
+}
+
+@media (min-width:1200px) {
+  .c1 {
+    font-size: 10.8px;
+  }
+}
+
+<div
+  className="c0 c1"
+  data-component="Block"
+  data-size="xs"
+>
+  Text
+</div>
+`;
+
+exports[`Typography Heading size l 1`] = `
+.c0 {
+  position: relative;
+  box-sizing: border-box;
+  display: block;
+  padding: 0;
+  font-family: "Raleway",sans-serif;
+  font-weight: bold;
+  line-height: 1.2;
+  margin: 1em 0 0.4em;
+  -webkit-letter-spacing: 0.01em;
+  -moz-letter-spacing: 0.01em;
+  -ms-letter-spacing: 0.01em;
+  letter-spacing: 0.01em;
+  font-size: 32px;
+  text-align: inherit;
+  color: inherit;
+}
+
+.c0:first-child {
+  margin-top: 0;
+}
+
+.c0:last-child {
+  margin-bottom: 0;
+}
+
+@media (min-width:768px) {
+  .c0 {
+    font-size: 56px;
+  }
+}
+
+@media (min-width:1200px) {
+  .c0 {
+    font-size: 56px;
+  }
+}
+
+<h2
+  className="c0"
+  data-component="Heading"
+>
+  Text
+</h2>
+`;
+
+exports[`Typography Heading size m 1`] = `
+.c0 {
+  position: relative;
+  box-sizing: border-box;
+  display: block;
+  padding: 0;
+  font-family: "Raleway",sans-serif;
+  font-weight: bold;
+  line-height: 1.2;
+  margin: 1em 0 0.4em;
+  -webkit-letter-spacing: 0.01em;
+  -moz-letter-spacing: 0.01em;
+  -ms-letter-spacing: 0.01em;
+  letter-spacing: 0.01em;
+  font-size: 28px;
+  text-align: inherit;
+  color: inherit;
+}
+
+.c0:first-child {
+  margin-top: 0;
+}
+
+.c0:last-child {
+  margin-bottom: 0;
+}
+
+@media (min-width:768px) {
+  .c0 {
+    font-size: 40px;
+  }
+}
+
+@media (min-width:1200px) {
+  .c0 {
+    font-size: 40px;
+  }
+}
+
+<h3
+  className="c0"
+  data-component="Heading"
+>
+  Text
+</h3>
+`;
+
+exports[`Typography Heading size s 1`] = `
+.c0 {
+  position: relative;
+  box-sizing: border-box;
+  display: block;
+  padding: 0;
+  font-family: "Roboto","Helvetica Neue",Helvetica,Arial,sans-serif;
+  font-weight: 500;
+  line-height: 1.2;
+  margin: 1em 0 0.4em;
+  -webkit-letter-spacing: 0.01em;
+  -moz-letter-spacing: 0.01em;
+  -ms-letter-spacing: 0.01em;
+  letter-spacing: 0.01em;
+  font-size: 24px;
+  text-align: inherit;
+  color: inherit;
+}
+
+.c0:first-child {
+  margin-top: 0;
+}
+
+.c0:last-child {
+  margin-bottom: 0;
+}
+
+@media (min-width:768px) {
+  .c0 {
+    font-size: 34px;
+  }
+}
+
+@media (min-width:1200px) {
+  .c0 {
+    font-size: 34px;
+  }
+}
+
+<h4
+  className="c0"
+  data-component="Heading"
+>
+  Text
+</h4>
+`;
+
+exports[`Typography Heading size xl 1`] = `
+.c0 {
+  position: relative;
+  box-sizing: border-box;
+  display: block;
+  padding: 0;
+  font-family: "Raleway",sans-serif;
+  font-weight: bold;
+  line-height: 1.2;
+  margin: 1em 0 0.4em;
+  -webkit-letter-spacing: 0.01em;
+  -moz-letter-spacing: 0.01em;
+  -ms-letter-spacing: 0.01em;
+  letter-spacing: 0.01em;
+  font-size: 36px;
+  text-align: inherit;
+  color: inherit;
+}
+
+.c0:first-child {
+  margin-top: 0;
+}
+
+.c0:last-child {
+  margin-bottom: 0;
+}
+
+@media (min-width:768px) {
+  .c0 {
+    font-size: 96px;
+  }
+}
+
+@media (min-width:1200px) {
+  .c0 {
+    font-size: 96px;
+  }
+}
+
+<h1
+  className="c0"
+  data-component="Heading"
+>
+  Text
+</h1>
+`;
+
+exports[`Typography Heading size xs 1`] = `
+.c0 {
+  position: relative;
+  box-sizing: border-box;
+  display: block;
+  padding: 0;
+  font-family: "Roboto","Helvetica Neue",Helvetica,Arial,sans-serif;
+  font-weight: 500;
+  line-height: 1.2;
+  margin: 1em 0 0.4em;
+  -webkit-letter-spacing: 0.01em;
+  -moz-letter-spacing: 0.01em;
+  -ms-letter-spacing: 0.01em;
+  letter-spacing: 0.01em;
+  font-size: 20px;
+  text-align: inherit;
+  color: inherit;
+}
+
+.c0:first-child {
+  margin-top: 0;
+}
+
+.c0:last-child {
+  margin-bottom: 0;
+}
+
+@media (min-width:768px) {
+  .c0 {
+    font-size: 24px;
+  }
+}
+
+@media (min-width:1200px) {
+  .c0 {
+    font-size: 24px;
+  }
+}
+
+<h5
+  className="c0"
+  data-component="Heading"
+>
+  Text
+</h5>
+`;
+
+exports[`Typography Heading size xxs 1`] = `
+.c0 {
+  position: relative;
+  box-sizing: border-box;
+  display: block;
+  padding: 0;
+  font-family: "Roboto","Helvetica Neue",Helvetica,Arial,sans-serif;
+  font-weight: 500;
+  line-height: 1.2;
+  margin: 1em 0 0.4em;
+  -webkit-letter-spacing: 0.01em;
+  -moz-letter-spacing: 0.01em;
+  -ms-letter-spacing: 0.01em;
+  letter-spacing: 0.01em;
+  font-size: 16px;
+  text-align: inherit;
+  color: inherit;
+}
+
+.c0:first-child {
+  margin-top: 0;
+}
+
+.c0:last-child {
+  margin-bottom: 0;
+}
+
+@media (min-width:768px) {
+  .c0 {
+    font-size: 20px;
+  }
+}
+
+@media (min-width:1200px) {
+  .c0 {
+    font-size: 20px;
+  }
+}
+
+<h6
+  className="c0"
+  data-component="Heading"
+>
+  Text
+</h6>
+`;
+
+exports[`Typography Paragraph size l 1`] = `
+.c1 {
+  position: relative;
+  box-sizing: border-box;
+  display: block;
+  padding: 0;
+  font-family: "Roboto","Helvetica Neue",Helvetica,Arial,sans-serif;
+  font-weight: normal;
+  line-height: 1.6;
+  margin: 1em 0;
+  font-size: 16px;
+  text-align: inherit;
+  color: inherit;
+}
+
+.c1:first-child {
+  margin-top: 0;
+}
+
+.c1:last-child {
+  margin-bottom: 0;
+}
+
+.sc-dlnjPT + .c0 {
+  margin-top: 0;
+}
+
+@media (min-width:768px) {
+  .c1 {
+    font-size: 16px;
+  }
+}
+
+@media (min-width:1200px) {
+  .c1 {
+    font-size: 16px;
+  }
+}
+
+<p
+  className="c0 c1"
+  data-component="Paragraph"
+  data-size="l"
+>
+  Text
+</p>
+`;
+
+exports[`Typography Paragraph size m 1`] = `
+.c1 {
+  position: relative;
+  box-sizing: border-box;
+  display: block;
+  padding: 0;
+  font-family: "Roboto","Helvetica Neue",Helvetica,Arial,sans-serif;
+  font-weight: normal;
+  line-height: 1.6;
+  margin: 1em 0;
+  font-size: 14px;
+  text-align: inherit;
+  color: inherit;
+}
+
+.c1:first-child {
+  margin-top: 0;
+}
+
+.c1:last-child {
+  margin-bottom: 0;
+}
+
+.sc-dlnjPT + .c0 {
+  margin-top: 0;
+}
+
+@media (min-width:768px) {
+  .c1 {
+    font-size: 14px;
+  }
+}
+
+@media (min-width:1200px) {
+  .c1 {
+    font-size: 14px;
+  }
+}
+
+<p
+  className="c0 c1"
+  data-component="Paragraph"
+  data-size="m"
+>
+  Text
+</p>
+`;
+
+exports[`Typography Paragraph size s 1`] = `
+.c1 {
+  position: relative;
+  box-sizing: border-box;
+  display: block;
+  padding: 0;
+  font-family: "Roboto","Helvetica Neue",Helvetica,Arial,sans-serif;
+  font-weight: normal;
+  line-height: 1.6;
+  margin: 1em 0;
+  font-size: 10.8px;
+  text-align: inherit;
+  color: inherit;
+}
+
+.c1:first-child {
+  margin-top: 0;
+}
+
+.c1:last-child {
+  margin-bottom: 0;
+}
+
+.sc-dlnjPT + .c0 {
+  margin-top: 0;
+}
+
+@media (min-width:768px) {
+  .c1 {
+    font-size: 12px;
+  }
+}
+
+@media (min-width:1200px) {
+  .c1 {
+    font-size: 12px;
+  }
+}
+
+<p
+  className="c0 c1"
+  data-component="Paragraph"
+  data-size="s"
+>
+  Text
+</p>
+`;
+
+exports[`Typography Paragraph size xl 1`] = `
+.c1 {
+  position: relative;
+  box-sizing: border-box;
+  display: block;
+  padding: 0;
+  font-family: "Roboto","Helvetica Neue",Helvetica,Arial,sans-serif;
+  font-weight: normal;
+  line-height: 1.6;
+  margin: 1em 0;
+  font-size: 18px;
+  text-align: inherit;
+  color: inherit;
+}
+
+.c1:first-child {
+  margin-top: 0;
+}
+
+.c1:last-child {
+  margin-bottom: 0;
+}
+
+.sc-dlnjPT + .c0 {
+  margin-top: 0;
+}
+
+@media (min-width:768px) {
+  .c1 {
+    font-size: 18px;
+  }
+}
+
+@media (min-width:1200px) {
+  .c1 {
+    font-size: 18px;
+  }
+}
+
+<p
+  className="c0 c1"
+  data-component="Paragraph"
+  data-size="xl"
+>
+  Text
+</p>
+`;
+
+exports[`Typography Paragraph size xs 1`] = `
+.c1 {
+  position: relative;
+  box-sizing: border-box;
+  display: block;
+  padding: 0;
+  font-family: "Roboto","Helvetica Neue",Helvetica,Arial,sans-serif;
+  font-weight: normal;
+  line-height: 1.6;
+  margin: 1em 0;
+  font-size: 10.8px;
+  text-align: inherit;
+  color: inherit;
+}
+
+.c1:first-child {
+  margin-top: 0;
+}
+
+.c1:last-child {
+  margin-bottom: 0;
+}
+
+.sc-dlnjPT + .c0 {
+  margin-top: 0;
+}
+
+@media (min-width:768px) {
+  .c1 {
+    font-size: 10.8px;
+  }
+}
+
+@media (min-width:1200px) {
+  .c1 {
+    font-size: 10.8px;
+  }
+}
+
+<p
+  className="c0 c1"
+  data-component="Paragraph"
+  data-size="xs"
+>
+  Text
+</p>
+`;
+
+exports[`Typography Paragraph withIcon 1`] = `
+.c2 {
+  position: relative;
+  box-sizing: border-box;
+  vertical-align: middle;
+  display: inline-block;
+  height: 24px;
+  width: 24px;
+}
+
+.c3 {
+  position: relative;
+  display: block;
+  width: 100%;
+  height: 100%;
+  fill: #232A42;
+  -webkit-transition: fill 0.32s ease-out;
+  transition: fill 0.32s ease-out;
+}
+
+.c1 {
+  position: relative;
+  box-sizing: border-box;
+  display: block;
+  padding: 0;
+  font-family: "Roboto","Helvetica Neue",Helvetica,Arial,sans-serif;
+  font-weight: normal;
+  line-height: 1.6;
+  margin: 1em 0;
+  font-size: inherit;
+  text-align: inherit;
+  color: inherit;
+}
+
+.c1:first-child {
+  margin-top: 0;
+}
+
+.c1:last-child {
+  margin-bottom: 0;
+}
+
+.sc-dlnjPT + .c0 {
+  margin-top: 0;
+}
+
+@media (min-width:768px) {
+  .c2 {
+    height: 24px;
+    width: 24px;
+  }
+}
+
+@media (min-width:1200px) {
+  .c2 {
+    height: 24px;
+    width: 24px;
+  }
+}
+
+@media (min-width:768px) {
+  .c1 {
+    font-size: inherit;
+  }
+}
+
+@media (min-width:1200px) {
+  .c1 {
+    font-size: inherit;
+  }
+}
+
+<p
+  className="c0 c1"
+  data-component="Paragraph"
+  data-size={null}
+>
+  <div
+    className="c2"
+    data-component="Icon"
+    data-type="document"
+  >
+    <svg
+      className="c3"
+      focusable="false"
+      viewBox="0 0 24 24"
+    >
+      <path
+        d="M14,2 L15,2 L20,7 L20,8 L20,21 C20,21.5523 19.5523,22 19,22 L5,22 C4.44771,22 4,21.5523 4,21 L4,3 C4,2.44772 4.44771,2 5,2 L14,2 Z M19,8 L15,8 C14.4477,8 14,7.55228 14,7 L14,3 L5,3 L5,21 L19,21 L19,8 Z M18.5858,7 L15,3.41421 L15,7 L18.5858,7 Z"
+      />
+    </svg>
+  </div>
+</p>
+`;
+
+exports[`Typography Span isAccented 1`] = `
+.c0 {
+  font-size: inherit;
+  font-weight: inherit;
+  font-style: oblique;
+  white-space: normal;
+  color: inherit;
+  font-family: inherit;
+  font-variant-numeric: inherit;
+}
+
+@media (min-width:768px) {
+  .c0 {
+    font-size: inherit;
+  }
+}
+
+@media (min-width:1200px) {
+  .c0 {
+    font-size: inherit;
+  }
+}
+
+<span
+  className="c0"
+  data-component="Span"
+  data-size={null}
+>
+  Text
+</span>
+`;
+
+exports[`Typography Span isDigital 1`] = `
+.c0 {
+  font-size: inherit;
+  font-weight: inherit;
+  font-style: inherit;
+  white-space: normal;
+  color: inherit;
+  font-family: "Raleway",sans-serif;
+  font-variant-numeric: tabular-nums;
+}
+
+@media (min-width:768px) {
+  .c0 {
+    font-size: inherit;
+  }
+}
+
+@media (min-width:1200px) {
+  .c0 {
+    font-size: inherit;
+  }
+}
+
+<span
+  className="c0"
+  data-component="Span"
+  data-size={null}
+>
+  Text
+</span>
+`;
+
+exports[`Typography Span noWrap 1`] = `
+.c0 {
+  font-size: inherit;
+  font-weight: inherit;
+  font-style: inherit;
+  white-space: nowrap;
+  color: inherit;
+  font-family: inherit;
+  font-variant-numeric: inherit;
+}
+
+@media (min-width:768px) {
+  .c0 {
+    font-size: inherit;
+  }
+}
+
+@media (min-width:1200px) {
+  .c0 {
+    font-size: inherit;
+  }
+}
+
+<span
+  className="c0"
+  data-component="Span"
+  data-size={null}
+>
+  Text
+</span>
+`;
+
+exports[`Typography Span size l 1`] = `
+.c0 {
+  font-size: 16px;
+  font-weight: inherit;
+  font-style: inherit;
+  white-space: normal;
+  color: inherit;
+  font-family: inherit;
+  font-variant-numeric: inherit;
+}
+
+@media (min-width:768px) {
+  .c0 {
+    font-size: 16px;
+  }
+}
+
+@media (min-width:1200px) {
+  .c0 {
+    font-size: 16px;
+  }
+}
+
+<span
+  className="c0"
+  data-component="Span"
+  data-size="l"
+>
+  Text
+</span>
+`;
+
+exports[`Typography Span size m 1`] = `
+.c0 {
+  font-size: 14px;
+  font-weight: inherit;
+  font-style: inherit;
+  white-space: normal;
+  color: inherit;
+  font-family: inherit;
+  font-variant-numeric: inherit;
+}
+
+@media (min-width:768px) {
+  .c0 {
+    font-size: 14px;
+  }
+}
+
+@media (min-width:1200px) {
+  .c0 {
+    font-size: 14px;
+  }
+}
+
+<span
+  className="c0"
+  data-component="Span"
+  data-size="m"
+>
+  Text
+</span>
+`;
+
+exports[`Typography Span size s 1`] = `
+.c0 {
+  font-size: 10.8px;
+  font-weight: inherit;
+  font-style: inherit;
+  white-space: normal;
+  color: inherit;
+  font-family: inherit;
+  font-variant-numeric: inherit;
+}
+
+@media (min-width:768px) {
+  .c0 {
+    font-size: 12px;
+  }
+}
+
+@media (min-width:1200px) {
+  .c0 {
+    font-size: 12px;
+  }
+}
+
+<span
+  className="c0"
+  data-component="Span"
+  data-size="s"
+>
+  Text
+</span>
+`;
+
+exports[`Typography Span size xl 1`] = `
+.c0 {
+  font-size: 18px;
+  font-weight: inherit;
+  font-style: inherit;
+  white-space: normal;
+  color: inherit;
+  font-family: inherit;
+  font-variant-numeric: inherit;
+}
+
+@media (min-width:768px) {
+  .c0 {
+    font-size: 18px;
+  }
+}
+
+@media (min-width:1200px) {
+  .c0 {
+    font-size: 18px;
+  }
+}
+
+<span
+  className="c0"
+  data-component="Span"
+  data-size="xl"
+>
+  Text
+</span>
+`;
+
+exports[`Typography Span size xs 1`] = `
+.c0 {
+  font-size: 10.8px;
+  font-weight: inherit;
+  font-style: inherit;
+  white-space: normal;
+  color: inherit;
+  font-family: inherit;
+  font-variant-numeric: inherit;
+}
+
+@media (min-width:768px) {
+  .c0 {
+    font-size: 10.8px;
+  }
+}
+
+@media (min-width:1200px) {
+  .c0 {
+    font-size: 10.8px;
+  }
+}
+
+<span
+  className="c0"
+  data-component="Span"
+  data-size="xs"
+>
+  Text
+</span>
+`;
+
+exports[`Typography Table size l 1`] = `
+.c4 {
+  padding: 0;
+  border-bottom: none;
+  border-right: none;
+}
+
+.c6 {
+  position: relative;
+  box-sizing: border-box;
+  text-align: inherit;
+}
+
+.c8 {
+  position: relative;
+  box-sizing: border-box;
+  text-align: left;
+}
+
+.c9 {
+  position: relative;
+  box-sizing: border-box;
+  text-align: center;
+}
+
+.c10 {
+  position: relative;
+  box-sizing: border-box;
+  text-align: right;
+}
+
+.c11 {
+  position: relative;
+  box-sizing: border-box;
+  text-align: justify;
+}
+
+.c2 .c3 {
+  vertical-align: inherit;
+}
+
+.c7 .c3 {
+  vertical-align: top;
+}
+
+.c12 .c3 {
+  vertical-align: middle;
+}
+
+.c13 .c3 {
+  vertical-align: bottom;
+}
+
+.c0 {
+  position: relative;
+  box-sizing: border-box;
+  margin: -2px;
+  font-size: 16px;
+}
+
+.c0 .c5 {
+  padding: 2px;
+}
+
+.c0 .c5:first-child {
+  padding-left: 2px;
+}
+
+.c0 .c5:last-child {
+  padding-right: 2px;
+}
+
+.c1 {
+  width: 100%;
+  border-collapse: collapse;
+  border-spacing: 0;
+  border-top: none;
+  border-left: none;
+}
+
+@media (min-width:768px) {
+  .c0 {
+    margin: --4px;
+    font-size: 16px;
+  }
+
+  .c0 .c5 {
+    padding: 4px;
+  }
+}
+
+@media (min-width:1200px) {
+  .c0 {
+    margin: --6px;
+    font-size: 16px;
+  }
+
+  .c0 .c5 {
+    padding: 6px;
+  }
+}
+
+<div
+  className="c0"
+  data-component="Table"
+  data-size="l"
+>
+  <table
+    className="c1"
+  >
+    <tbody
+      className=""
+    >
+      <tr
+        className="c2"
+        data-component="TableRow"
+      >
+        <td
+          className="c3 c4"
+          data-component="TableCell"
+        >
+          <div
+            className="c5 c6"
+          >
+            TableCell
+          </div>
+        </td>
+        <td
+          className="c3 c4"
+          data-component="TableCell"
+        >
+          <div
+            className="c5 c6"
+          >
+            TableCell
+          </div>
+        </td>
+        <td
+          className="c3 c4"
+          data-component="TableCell"
+        >
+          <div
+            className="c5 c6"
+          >
+            TableCell
+          </div>
+        </td>
+        <td
+          className="c3 c4"
+          data-component="TableCell"
+        >
+          <div
+            className="c5 c6"
+          >
+            TableCell
+          </div>
+        </td>
+      </tr>
+      <tr
+        className="c7"
+        data-component="TableRow"
+      >
+        <td
+          className="c3 c4"
+          data-component="TableCell"
+        >
+          <div
+            className="c5 c8"
+          >
+            TableCell
+          </div>
+        </td>
+        <td
+          className="c3 c4"
+          data-component="TableCell"
+        >
+          <div
+            className="c5 c9"
+          >
+            TableCell
+          </div>
+        </td>
+        <td
+          className="c3 c4"
+          data-component="TableCell"
+        >
+          <div
+            className="c5 c10"
+          >
+            TableCell
+          </div>
+        </td>
+        <td
+          className="c3 c4"
+          data-component="TableCell"
+        >
+          <div
+            className="c5 c11"
+          >
+            TableCell
+          </div>
+        </td>
+      </tr>
+      <tr
+        className="c12"
+        data-component="TableRow"
+      >
+        <td
+          className="c3 c4"
+          data-component="TableCell"
+        >
+          <div
+            className="c5 c8"
+          >
+            TableCell
+          </div>
+        </td>
+        <td
+          className="c3 c4"
+          data-component="TableCell"
+        >
+          <div
+            className="c5 c9"
+          >
+            TableCell
+          </div>
+        </td>
+        <td
+          className="c3 c4"
+          data-component="TableCell"
+        >
+          <div
+            className="c5 c10"
+          >
+            TableCell
+          </div>
+        </td>
+        <td
+          className="c3 c4"
+          data-component="TableCell"
+        >
+          <div
+            className="c5 c11"
+          >
+            TableCell
+          </div>
+        </td>
+      </tr>
+      <tr
+        className="c13"
+        data-component="TableRow"
+      >
+        <td
+          className="c3 c4"
+          data-component="TableCell"
+        >
+          <div
+            className="c5 c8"
+          >
+            TableCell
+          </div>
+        </td>
+        <td
+          className="c3 c4"
+          data-component="TableCell"
+        >
+          <div
+            className="c5 c9"
+          >
+            TableCell
+          </div>
+        </td>
+        <td
+          className="c3 c4"
+          data-component="TableCell"
+        >
+          <div
+            className="c5 c10"
+          >
+            TableCell
+          </div>
+        </td>
+        <td
+          className="c3 c4"
+          data-component="TableCell"
+        >
+          <div
+            className="c5 c11"
+          >
+            TableCell
+          </div>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+`;
+
+exports[`Typography Table size m 1`] = `
+.c4 {
+  padding: 0;
+  border-bottom: none;
+  border-right: none;
+}
+
+.c6 {
+  position: relative;
+  box-sizing: border-box;
+  text-align: inherit;
+}
+
+.c8 {
+  position: relative;
+  box-sizing: border-box;
+  text-align: left;
+}
+
+.c9 {
+  position: relative;
+  box-sizing: border-box;
+  text-align: center;
+}
+
+.c10 {
+  position: relative;
+  box-sizing: border-box;
+  text-align: right;
+}
+
+.c11 {
+  position: relative;
+  box-sizing: border-box;
+  text-align: justify;
+}
+
+.c2 .c3 {
+  vertical-align: inherit;
+}
+
+.c7 .c3 {
+  vertical-align: top;
+}
+
+.c12 .c3 {
+  vertical-align: middle;
+}
+
+.c13 .c3 {
+  vertical-align: bottom;
+}
+
+.c0 {
+  position: relative;
+  box-sizing: border-box;
+  margin: -2px;
+  font-size: 14px;
+}
+
+.c0 .c5 {
+  padding: 2px;
+}
+
+.c0 .c5:first-child {
+  padding-left: 2px;
+}
+
+.c0 .c5:last-child {
+  padding-right: 2px;
+}
+
+.c1 {
+  width: 100%;
+  border-collapse: collapse;
+  border-spacing: 0;
+  border-top: none;
+  border-left: none;
+}
+
+@media (min-width:768px) {
+  .c0 {
+    margin: --4px;
+    font-size: 14px;
+  }
+
+  .c0 .c5 {
+    padding: 4px;
+  }
+}
+
+@media (min-width:1200px) {
+  .c0 {
+    margin: --6px;
+    font-size: 14px;
+  }
+
+  .c0 .c5 {
+    padding: 6px;
+  }
+}
+
+<div
+  className="c0"
+  data-component="Table"
+  data-size="m"
+>
+  <table
+    className="c1"
+  >
+    <tbody
+      className=""
+    >
+      <tr
+        className="c2"
+        data-component="TableRow"
+      >
+        <td
+          className="c3 c4"
+          data-component="TableCell"
+        >
+          <div
+            className="c5 c6"
+          >
+            TableCell
+          </div>
+        </td>
+        <td
+          className="c3 c4"
+          data-component="TableCell"
+        >
+          <div
+            className="c5 c6"
+          >
+            TableCell
+          </div>
+        </td>
+        <td
+          className="c3 c4"
+          data-component="TableCell"
+        >
+          <div
+            className="c5 c6"
+          >
+            TableCell
+          </div>
+        </td>
+        <td
+          className="c3 c4"
+          data-component="TableCell"
+        >
+          <div
+            className="c5 c6"
+          >
+            TableCell
+          </div>
+        </td>
+      </tr>
+      <tr
+        className="c7"
+        data-component="TableRow"
+      >
+        <td
+          className="c3 c4"
+          data-component="TableCell"
+        >
+          <div
+            className="c5 c8"
+          >
+            TableCell
+          </div>
+        </td>
+        <td
+          className="c3 c4"
+          data-component="TableCell"
+        >
+          <div
+            className="c5 c9"
+          >
+            TableCell
+          </div>
+        </td>
+        <td
+          className="c3 c4"
+          data-component="TableCell"
+        >
+          <div
+            className="c5 c10"
+          >
+            TableCell
+          </div>
+        </td>
+        <td
+          className="c3 c4"
+          data-component="TableCell"
+        >
+          <div
+            className="c5 c11"
+          >
+            TableCell
+          </div>
+        </td>
+      </tr>
+      <tr
+        className="c12"
+        data-component="TableRow"
+      >
+        <td
+          className="c3 c4"
+          data-component="TableCell"
+        >
+          <div
+            className="c5 c8"
+          >
+            TableCell
+          </div>
+        </td>
+        <td
+          className="c3 c4"
+          data-component="TableCell"
+        >
+          <div
+            className="c5 c9"
+          >
+            TableCell
+          </div>
+        </td>
+        <td
+          className="c3 c4"
+          data-component="TableCell"
+        >
+          <div
+            className="c5 c10"
+          >
+            TableCell
+          </div>
+        </td>
+        <td
+          className="c3 c4"
+          data-component="TableCell"
+        >
+          <div
+            className="c5 c11"
+          >
+            TableCell
+          </div>
+        </td>
+      </tr>
+      <tr
+        className="c13"
+        data-component="TableRow"
+      >
+        <td
+          className="c3 c4"
+          data-component="TableCell"
+        >
+          <div
+            className="c5 c8"
+          >
+            TableCell
+          </div>
+        </td>
+        <td
+          className="c3 c4"
+          data-component="TableCell"
+        >
+          <div
+            className="c5 c9"
+          >
+            TableCell
+          </div>
+        </td>
+        <td
+          className="c3 c4"
+          data-component="TableCell"
+        >
+          <div
+            className="c5 c10"
+          >
+            TableCell
+          </div>
+        </td>
+        <td
+          className="c3 c4"
+          data-component="TableCell"
+        >
+          <div
+            className="c5 c11"
+          >
+            TableCell
+          </div>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+`;
+
+exports[`Typography Table size s 1`] = `
+.c4 {
+  padding: 0;
+  border-bottom: none;
+  border-right: none;
+}
+
+.c6 {
+  position: relative;
+  box-sizing: border-box;
+  text-align: inherit;
+}
+
+.c8 {
+  position: relative;
+  box-sizing: border-box;
+  text-align: left;
+}
+
+.c9 {
+  position: relative;
+  box-sizing: border-box;
+  text-align: center;
+}
+
+.c10 {
+  position: relative;
+  box-sizing: border-box;
+  text-align: right;
+}
+
+.c11 {
+  position: relative;
+  box-sizing: border-box;
+  text-align: justify;
+}
+
+.c2 .c3 {
+  vertical-align: inherit;
+}
+
+.c7 .c3 {
+  vertical-align: top;
+}
+
+.c12 .c3 {
+  vertical-align: middle;
+}
+
+.c13 .c3 {
+  vertical-align: bottom;
+}
+
+.c0 {
+  position: relative;
+  box-sizing: border-box;
+  margin: -2px;
+  font-size: 10.8px;
+}
+
+.c0 .c5 {
+  padding: 2px;
+}
+
+.c0 .c5:first-child {
+  padding-left: 2px;
+}
+
+.c0 .c5:last-child {
+  padding-right: 2px;
+}
+
+.c1 {
+  width: 100%;
+  border-collapse: collapse;
+  border-spacing: 0;
+  border-top: none;
+  border-left: none;
+}
+
+@media (min-width:768px) {
+  .c0 {
+    margin: --4px;
+    font-size: 12px;
+  }
+
+  .c0 .c5 {
+    padding: 4px;
+  }
+}
+
+@media (min-width:1200px) {
+  .c0 {
+    margin: --6px;
+    font-size: 12px;
+  }
+
+  .c0 .c5 {
+    padding: 6px;
+  }
+}
+
+<div
+  className="c0"
+  data-component="Table"
+  data-size="s"
+>
+  <table
+    className="c1"
+  >
+    <tbody
+      className=""
+    >
+      <tr
+        className="c2"
+        data-component="TableRow"
+      >
+        <td
+          className="c3 c4"
+          data-component="TableCell"
+        >
+          <div
+            className="c5 c6"
+          >
+            TableCell
+          </div>
+        </td>
+        <td
+          className="c3 c4"
+          data-component="TableCell"
+        >
+          <div
+            className="c5 c6"
+          >
+            TableCell
+          </div>
+        </td>
+        <td
+          className="c3 c4"
+          data-component="TableCell"
+        >
+          <div
+            className="c5 c6"
+          >
+            TableCell
+          </div>
+        </td>
+        <td
+          className="c3 c4"
+          data-component="TableCell"
+        >
+          <div
+            className="c5 c6"
+          >
+            TableCell
+          </div>
+        </td>
+      </tr>
+      <tr
+        className="c7"
+        data-component="TableRow"
+      >
+        <td
+          className="c3 c4"
+          data-component="TableCell"
+        >
+          <div
+            className="c5 c8"
+          >
+            TableCell
+          </div>
+        </td>
+        <td
+          className="c3 c4"
+          data-component="TableCell"
+        >
+          <div
+            className="c5 c9"
+          >
+            TableCell
+          </div>
+        </td>
+        <td
+          className="c3 c4"
+          data-component="TableCell"
+        >
+          <div
+            className="c5 c10"
+          >
+            TableCell
+          </div>
+        </td>
+        <td
+          className="c3 c4"
+          data-component="TableCell"
+        >
+          <div
+            className="c5 c11"
+          >
+            TableCell
+          </div>
+        </td>
+      </tr>
+      <tr
+        className="c12"
+        data-component="TableRow"
+      >
+        <td
+          className="c3 c4"
+          data-component="TableCell"
+        >
+          <div
+            className="c5 c8"
+          >
+            TableCell
+          </div>
+        </td>
+        <td
+          className="c3 c4"
+          data-component="TableCell"
+        >
+          <div
+            className="c5 c9"
+          >
+            TableCell
+          </div>
+        </td>
+        <td
+          className="c3 c4"
+          data-component="TableCell"
+        >
+          <div
+            className="c5 c10"
+          >
+            TableCell
+          </div>
+        </td>
+        <td
+          className="c3 c4"
+          data-component="TableCell"
+        >
+          <div
+            className="c5 c11"
+          >
+            TableCell
+          </div>
+        </td>
+      </tr>
+      <tr
+        className="c13"
+        data-component="TableRow"
+      >
+        <td
+          className="c3 c4"
+          data-component="TableCell"
+        >
+          <div
+            className="c5 c8"
+          >
+            TableCell
+          </div>
+        </td>
+        <td
+          className="c3 c4"
+          data-component="TableCell"
+        >
+          <div
+            className="c5 c9"
+          >
+            TableCell
+          </div>
+        </td>
+        <td
+          className="c3 c4"
+          data-component="TableCell"
+        >
+          <div
+            className="c5 c10"
+          >
+            TableCell
+          </div>
+        </td>
+        <td
+          className="c3 c4"
+          data-component="TableCell"
+        >
+          <div
+            className="c5 c11"
+          >
+            TableCell
+          </div>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+`;
+
+exports[`Typography Table size xl 1`] = `
+.c4 {
+  padding: 0;
+  border-bottom: none;
+  border-right: none;
+}
+
+.c6 {
+  position: relative;
+  box-sizing: border-box;
+  text-align: inherit;
+}
+
+.c8 {
+  position: relative;
+  box-sizing: border-box;
+  text-align: left;
+}
+
+.c9 {
+  position: relative;
+  box-sizing: border-box;
+  text-align: center;
+}
+
+.c10 {
+  position: relative;
+  box-sizing: border-box;
+  text-align: right;
+}
+
+.c11 {
+  position: relative;
+  box-sizing: border-box;
+  text-align: justify;
+}
+
+.c2 .c3 {
+  vertical-align: inherit;
+}
+
+.c7 .c3 {
+  vertical-align: top;
+}
+
+.c12 .c3 {
+  vertical-align: middle;
+}
+
+.c13 .c3 {
+  vertical-align: bottom;
+}
+
+.c0 {
+  position: relative;
+  box-sizing: border-box;
+  margin: -2px;
+  font-size: 18px;
+}
+
+.c0 .c5 {
+  padding: 2px;
+}
+
+.c0 .c5:first-child {
+  padding-left: 2px;
+}
+
+.c0 .c5:last-child {
+  padding-right: 2px;
+}
+
+.c1 {
+  width: 100%;
+  border-collapse: collapse;
+  border-spacing: 0;
+  border-top: none;
+  border-left: none;
+}
+
+@media (min-width:768px) {
+  .c0 {
+    margin: --4px;
+    font-size: 18px;
+  }
+
+  .c0 .c5 {
+    padding: 4px;
+  }
+}
+
+@media (min-width:1200px) {
+  .c0 {
+    margin: --6px;
+    font-size: 18px;
+  }
+
+  .c0 .c5 {
+    padding: 6px;
+  }
+}
+
+<div
+  className="c0"
+  data-component="Table"
+  data-size="xl"
+>
+  <table
+    className="c1"
+  >
+    <tbody
+      className=""
+    >
+      <tr
+        className="c2"
+        data-component="TableRow"
+      >
+        <td
+          className="c3 c4"
+          data-component="TableCell"
+        >
+          <div
+            className="c5 c6"
+          >
+            TableCell
+          </div>
+        </td>
+        <td
+          className="c3 c4"
+          data-component="TableCell"
+        >
+          <div
+            className="c5 c6"
+          >
+            TableCell
+          </div>
+        </td>
+        <td
+          className="c3 c4"
+          data-component="TableCell"
+        >
+          <div
+            className="c5 c6"
+          >
+            TableCell
+          </div>
+        </td>
+        <td
+          className="c3 c4"
+          data-component="TableCell"
+        >
+          <div
+            className="c5 c6"
+          >
+            TableCell
+          </div>
+        </td>
+      </tr>
+      <tr
+        className="c7"
+        data-component="TableRow"
+      >
+        <td
+          className="c3 c4"
+          data-component="TableCell"
+        >
+          <div
+            className="c5 c8"
+          >
+            TableCell
+          </div>
+        </td>
+        <td
+          className="c3 c4"
+          data-component="TableCell"
+        >
+          <div
+            className="c5 c9"
+          >
+            TableCell
+          </div>
+        </td>
+        <td
+          className="c3 c4"
+          data-component="TableCell"
+        >
+          <div
+            className="c5 c10"
+          >
+            TableCell
+          </div>
+        </td>
+        <td
+          className="c3 c4"
+          data-component="TableCell"
+        >
+          <div
+            className="c5 c11"
+          >
+            TableCell
+          </div>
+        </td>
+      </tr>
+      <tr
+        className="c12"
+        data-component="TableRow"
+      >
+        <td
+          className="c3 c4"
+          data-component="TableCell"
+        >
+          <div
+            className="c5 c8"
+          >
+            TableCell
+          </div>
+        </td>
+        <td
+          className="c3 c4"
+          data-component="TableCell"
+        >
+          <div
+            className="c5 c9"
+          >
+            TableCell
+          </div>
+        </td>
+        <td
+          className="c3 c4"
+          data-component="TableCell"
+        >
+          <div
+            className="c5 c10"
+          >
+            TableCell
+          </div>
+        </td>
+        <td
+          className="c3 c4"
+          data-component="TableCell"
+        >
+          <div
+            className="c5 c11"
+          >
+            TableCell
+          </div>
+        </td>
+      </tr>
+      <tr
+        className="c13"
+        data-component="TableRow"
+      >
+        <td
+          className="c3 c4"
+          data-component="TableCell"
+        >
+          <div
+            className="c5 c8"
+          >
+            TableCell
+          </div>
+        </td>
+        <td
+          className="c3 c4"
+          data-component="TableCell"
+        >
+          <div
+            className="c5 c9"
+          >
+            TableCell
+          </div>
+        </td>
+        <td
+          className="c3 c4"
+          data-component="TableCell"
+        >
+          <div
+            className="c5 c10"
+          >
+            TableCell
+          </div>
+        </td>
+        <td
+          className="c3 c4"
+          data-component="TableCell"
+        >
+          <div
+            className="c5 c11"
+          >
+            TableCell
+          </div>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+`;
+
+exports[`Typography Table size xs 1`] = `
+.c4 {
+  padding: 0;
+  border-bottom: none;
+  border-right: none;
+}
+
+.c6 {
+  position: relative;
+  box-sizing: border-box;
+  text-align: inherit;
+}
+
+.c8 {
+  position: relative;
+  box-sizing: border-box;
+  text-align: left;
+}
+
+.c9 {
+  position: relative;
+  box-sizing: border-box;
+  text-align: center;
+}
+
+.c10 {
+  position: relative;
+  box-sizing: border-box;
+  text-align: right;
+}
+
+.c11 {
+  position: relative;
+  box-sizing: border-box;
+  text-align: justify;
+}
+
+.c2 .c3 {
+  vertical-align: inherit;
+}
+
+.c7 .c3 {
+  vertical-align: top;
+}
+
+.c12 .c3 {
+  vertical-align: middle;
+}
+
+.c13 .c3 {
+  vertical-align: bottom;
+}
+
+.c0 {
+  position: relative;
+  box-sizing: border-box;
+  margin: -2px;
+  font-size: 10.8px;
+}
+
+.c0 .c5 {
+  padding: 2px;
+}
+
+.c0 .c5:first-child {
+  padding-left: 2px;
+}
+
+.c0 .c5:last-child {
+  padding-right: 2px;
+}
+
+.c1 {
+  width: 100%;
+  border-collapse: collapse;
+  border-spacing: 0;
+  border-top: none;
+  border-left: none;
+}
+
+@media (min-width:768px) {
+  .c0 {
+    margin: --4px;
+    font-size: 10.8px;
+  }
+
+  .c0 .c5 {
+    padding: 4px;
+  }
+}
+
+@media (min-width:1200px) {
+  .c0 {
+    margin: --6px;
+    font-size: 10.8px;
+  }
+
+  .c0 .c5 {
+    padding: 6px;
+  }
+}
+
+<div
+  className="c0"
+  data-component="Table"
+  data-size="xs"
+>
+  <table
+    className="c1"
+  >
+    <tbody
+      className=""
+    >
+      <tr
+        className="c2"
+        data-component="TableRow"
+      >
+        <td
+          className="c3 c4"
+          data-component="TableCell"
+        >
+          <div
+            className="c5 c6"
+          >
+            TableCell
+          </div>
+        </td>
+        <td
+          className="c3 c4"
+          data-component="TableCell"
+        >
+          <div
+            className="c5 c6"
+          >
+            TableCell
+          </div>
+        </td>
+        <td
+          className="c3 c4"
+          data-component="TableCell"
+        >
+          <div
+            className="c5 c6"
+          >
+            TableCell
+          </div>
+        </td>
+        <td
+          className="c3 c4"
+          data-component="TableCell"
+        >
+          <div
+            className="c5 c6"
+          >
+            TableCell
+          </div>
+        </td>
+      </tr>
+      <tr
+        className="c7"
+        data-component="TableRow"
+      >
+        <td
+          className="c3 c4"
+          data-component="TableCell"
+        >
+          <div
+            className="c5 c8"
+          >
+            TableCell
+          </div>
+        </td>
+        <td
+          className="c3 c4"
+          data-component="TableCell"
+        >
+          <div
+            className="c5 c9"
+          >
+            TableCell
+          </div>
+        </td>
+        <td
+          className="c3 c4"
+          data-component="TableCell"
+        >
+          <div
+            className="c5 c10"
+          >
+            TableCell
+          </div>
+        </td>
+        <td
+          className="c3 c4"
+          data-component="TableCell"
+        >
+          <div
+            className="c5 c11"
+          >
+            TableCell
+          </div>
+        </td>
+      </tr>
+      <tr
+        className="c12"
+        data-component="TableRow"
+      >
+        <td
+          className="c3 c4"
+          data-component="TableCell"
+        >
+          <div
+            className="c5 c8"
+          >
+            TableCell
+          </div>
+        </td>
+        <td
+          className="c3 c4"
+          data-component="TableCell"
+        >
+          <div
+            className="c5 c9"
+          >
+            TableCell
+          </div>
+        </td>
+        <td
+          className="c3 c4"
+          data-component="TableCell"
+        >
+          <div
+            className="c5 c10"
+          >
+            TableCell
+          </div>
+        </td>
+        <td
+          className="c3 c4"
+          data-component="TableCell"
+        >
+          <div
+            className="c5 c11"
+          >
+            TableCell
+          </div>
+        </td>
+      </tr>
+      <tr
+        className="c13"
+        data-component="TableRow"
+      >
+        <td
+          className="c3 c4"
+          data-component="TableCell"
+        >
+          <div
+            className="c5 c8"
+          >
+            TableCell
+          </div>
+        </td>
+        <td
+          className="c3 c4"
+          data-component="TableCell"
+        >
+          <div
+            className="c5 c9"
+          >
+            TableCell
+          </div>
+        </td>
+        <td
+          className="c3 c4"
+          data-component="TableCell"
+        >
+          <div
+            className="c5 c10"
+          >
+            TableCell
+          </div>
+        </td>
+        <td
+          className="c3 c4"
+          data-component="TableCell"
+        >
+          <div
+            className="c5 c11"
+          >
+            TableCell
+          </div>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+`;
